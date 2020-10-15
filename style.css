@@ -14,7 +14,7 @@ body {
 
 
 header {
-	background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(second/Rectangle.png);
+	background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(img1/Rectangle1.png);
     height: 900px;
     background-position: center center;
     border-radius: 0px;
@@ -55,6 +55,7 @@ header {
      font-weight: bold;
     font-size: 35px;
     color: #FFFFFF;
+    max-width: 600px;
     }
     
 .but {
